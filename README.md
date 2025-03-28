@@ -2,7 +2,6 @@
 ![SQL](https://img.shields.io/badge/Language-SQL-yellow?style=flat-square)  
 ![Workbench](https://img.shields.io/badge/Workbench-MySQL-green?style=flat-square)  
 
-📌 **Dataset Source**: [Kaggle - Healthcare Dataset](https://www.kaggle.com/datasets/prasad22/healthcare-dataset)  
 
 ## 🔍 Project Overview  
 This project analyzes healthcare data using SQL to extract key insights related to patient demographics, medical conditions, treatments, financial aspects, and hospital performance. The findings support data-driven decision-making for improving healthcare services and resource allocation.  
