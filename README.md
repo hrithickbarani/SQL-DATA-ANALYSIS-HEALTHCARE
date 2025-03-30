@@ -7,7 +7,7 @@
 This project simulates a real-world healthcare data analysis for Apollo Hospital, similar to work done at Kantar. Using SQL, we analyzed patient demographics, medical conditions, treatments, and hospital performance to optimize resource allocation and improve patient care.
 ---
 
-## 📊 Key Analyses & Insights  
+## 📊 Key Analysis & Insights  
 
 ### 1️⃣ **Patient Demographics & Statistics**  
 - Explored total records, max & average patient age, and age-based demographic distribution.  
