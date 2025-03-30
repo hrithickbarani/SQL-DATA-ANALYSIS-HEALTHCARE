@@ -3,7 +3,7 @@
 ![Workbench](https://img.shields.io/badge/Workbench-MySQL-green?style=flat-square)  
 
 
-## 🔍 Project Overview  
+## 🔍 Project Overview
 This project simulates a real-world healthcare data analysis for Apollo Hospital, similar to work done at Kantar. Using SQL, we analyzed patient demographics, medical conditions, treatments, and hospital performance to optimize resource allocation and improve patient care.
 ---
 
