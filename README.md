@@ -4,8 +4,7 @@
 
 
 ## 🔍 Project Overview  
-This project analyzes healthcare data using SQL to extract key insights related to patient demographics, medical conditions, treatments, financial aspects, and hospital performance. The findings support data-driven decision-making for improving healthcare services and resource allocation.  
-
+This project simulates a real-world healthcare data analysis for Apollo Hospital, similar to work done at Kantar. Using SQL, we analyzed patient demographics, medical conditions, treatments, and hospital performance to optimize resource allocation and improve patient care.
 ---
 
 ## 📊 Key Analyses & Insights  
